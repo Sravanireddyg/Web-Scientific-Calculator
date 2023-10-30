@@ -12,7 +12,7 @@ A versatile calculator which was developed with HTML, CSS, and JavaScript for pr
 
 ## Interface
 
-![calculator-interface](https://github.com/Sravanireddyg/web-scientific-calculator/assets/95694239/8c0335bb-f355-4566-9645-a0821444c86a)
+![calculator-interface](https://github.com/Sravanireddyg/Web-Scientific-Calculator/assets/95694239/4d8bd9f6-9f71-4174-b8ed-7ce336cfb3f6)
 
 ## Author
 
